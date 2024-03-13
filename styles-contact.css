@@ -74,7 +74,7 @@ text-align: center;
 	min-width: 500px; /*------ This is for responsiveness ------*/
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(255, 255, 255, 0.72); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(255, 255, 255, 0.75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	/*border: 4px dashed white;*/
 
@@ -193,7 +193,7 @@ a{
 }
 
 a:hover{
-	color: black;
+	color: white;
 	background: rgba(112, 112, 55, 0.5);
 }
 
